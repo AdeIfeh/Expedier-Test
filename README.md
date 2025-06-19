@@ -10,7 +10,7 @@ test/
 ├── signuptest.js # Positive sign-up test
 └── negative-signuptest.js # Negative sign-up validation test
 
-## What’s Covered
+## Test Coverage
 
 ### 1. **Login Test (`logintest.js`)**
 - Valid login with correct credentials
