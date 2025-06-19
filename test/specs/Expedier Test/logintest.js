@@ -108,7 +108,6 @@ describe('Expedier App - Valid Login Flow', () => {
     // Locate password input
     const passwordInput = await $('//android.widget.EditText[2]')
     await passwordInput.setValue('');
-
     // Locate the Login button
     const loginButton = await $('~Login')
 
