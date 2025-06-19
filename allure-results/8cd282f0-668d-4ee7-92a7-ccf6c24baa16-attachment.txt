@@ -1,0 +1,4 @@
+{
+  "using": "-android uiautomator",
+  "value": "new UiSelector().description(\"Personal Account\nPersonal Account\")"
+}
