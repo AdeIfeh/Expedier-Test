@@ -70,7 +70,8 @@ npx wdio run wdio.conf.js --spec ./test/specs/Expedier\ Test/logintest.js
 **Author**
 Elizabeth Adebayo
 QA Engineer | Mobile Automation | WebDriverIO | Appium
-GitHub: AdeIfeh
+GitHub: [AdeIfeh](https://github.com/AdeIfeh)
+
 
 
 
