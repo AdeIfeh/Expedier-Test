@@ -56,6 +56,17 @@ npx wdio run wdio.conf.js
 **4. Run Specific Test Files**
 npx wdio run wdio.conf.js --spec ./test/specs/Expedier\ Test/logintest.js
 
+**Test Results**
+This project uses Allure Reporter to generate detailed, interactive test reports.
+
+**To view the test results:**
+# Make sure you have Allure CLI installed globally
+npm install -g allure-commandline --save-dev
+
+# Serve the latest report
+allure serve allure-results
+-The allure-results folder is included in this repo. After running the tests, you can visualize the report with the above command.
+
 **Prerequisites**
 -Android emulator or real device connected
 -Appium server running
